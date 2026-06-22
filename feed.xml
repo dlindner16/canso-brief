@@ -15,5 +15,8 @@
       <pubDate>Mon, 23 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">placeholder-id</guid>
     </item>
+  
+    <itunes:email>dlindner16@hotmail.com</itunes:email>
+    <itunes:image href="https://dlindner16.github.io/canso-brief/cover.jpg"/>
   </channel>
 </rss>
