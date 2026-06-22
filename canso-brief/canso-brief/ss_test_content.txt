@@ -1,0 +1,1 @@
+This is a test of the Canso Brief production pipeline. We are verifying that the audio generation, the GitHub Pages feed update, and the git deployment process are all working in harmony. If you are hearing this, the mission is on track.
