@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Canso Brief</title>
+    <description>The podcast for the MLS 2028 mission.</description>
+    <link>https://dlindner16.github.io/canso-brief/</link>
+    <language>en-US</language>
+    <itunes:author>Derek Lindner</itunes:author>
+    <itunes:category text="Technology"/>
+    <atom:link href="https://dlindner16.github.io/canso-brief/feed.xml" rel="self" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    
+    <item>
+      <title>Placeholder Episode</title>
+      <description>This is a placeholder for the initial feed validation.</description>
+      <pubDate>Mon, 23 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">placeholder-id</guid>
+    </item>
+  </channel>
+</rss>
