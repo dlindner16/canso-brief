@@ -22,14 +22,14 @@
       <ns0:duration>6:00</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep01-2026-06-24</guid>
     </item>
-  <item>
-  <title>Ep02: The Regulatory Regime — Dissecting Bill C-28</title>
-  <description>A deep dive into the legal architecture of Canada's Space Launch Act (Bill C-28), exploring ministerial authority, site certification, and launch liability.</description>
-  <link>https://dlindner16.github.io/canso-brief/</link>
-  <pubDate>Fri, 26 Jun 2026 20:35:04 +0000</pubDate>
-  <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-06-26-ep02-bill-c28-regulatory-regime.mp3" length="ACTUAL_BYTE_SIZE" type="audio/mpeg"/>
-  <ns0:duration>HH:MM</ns0:duration>
-  <guid isPermaLink="false">canso-brief-ep02-2026-06-26</guid>
-</item>
+    <item>
+      <title>Ep02: The Regulatory Regime — Dissecting Bill C-28</title>
+      <description>A deep dive into the legal architecture of Canada's Space Launch Act (Bill C-28), exploring ministerial authority, site certification, and launch liability.</description>
+      <link>https://dlindner16.github.io/canso-brief/</link>
+      <pubDate>Fri, 26 Jun 2026 20:35:04 +0000</pubDate>
+      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-06-26-ep02-bill-c28-regulatory-regime.mp3" length="4672368" type="audio/mpeg"/>
+      <ns0:duration>12:58</ns0:duration>
+      <guid isPermaLink="false">canso-brief-ep02-2026-06-26</guid>
+    </item>
   </channel>
 </rss>
