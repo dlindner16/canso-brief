@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Canso Brief</title>
     <description>The podcast for the MLS 2028 mission. (Contact: dlindner16@hotmail.com)</description>
     <link>https://dlindner16.github.io/canso-brief/</link>
     <language>en-US</language>
-    <itunes:author>Derek Lindner</itunes:author>
-    <itunes:owner>
-      <itunes:name>Derek Lindner</itunes:name>
-      <itunes:email>dlindner16@hotmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:category text="Technology"/>
-    <itunes:image href="https://dlindner16.github.io/canso-brief/cover.jpg"/>
-    <atom:link href="https://dlindner16.github.io/canso-brief/feed.xml" rel="self" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <ns0:author>Derek Lindner</ns0:author>
+    <ns0:owner>
+      <ns0:name>Derek Lindner</ns0:name>
+      <ns0:email>dlindner16@hotmail.com</ns0:email>
+    </ns0:owner>
+    <ns0:category text="Technology" />
+    <ns0:image href="https://dlindner16.github.io/canso-brief/cover.jpg" />
+    <ns1:link href="https://dlindner16.github.io/canso-brief/feed.xml" rel="self" />
     <item>
       <title>Episode 1 — The Launch Ecosystem: From Rockets to Revenue</title>
       <description>The foundational module for the MLS 2028 curriculum. Explores the interconnected layers of the Canadian launch ecosystem — regulatory frameworks, physical infrastructure, market demand, and vehicle technology — and how they converge to make orbital access from Nova Scotia possible.</description>
       <link>https://dlindner16.github.io/canso-brief/</link>
       <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-06-24-ep01-launch-ecosystem.mp3" length="1870282" type="audio/mpeg"/>
-      <itunes:duration>6:00</itunes:duration>
+      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-06-24-ep01-launch-ecosystem.mp3" length="1870282" type="audio/mpeg" />
+      <ns0:duration>6:00</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep01-2026-06-24</guid>
     </item>
-  </channel>
+  <item><title>Ep02: The Regulatory Regime — Dissecting Bill C-28</title><link>https://dlindner16.github.io/canso-brief/ep02_master.mp3</link><description>A deep dive into the legal architecture of Canada Space Launch Act (Bill 28), exploring ministerial authority, site certification, and launch liability.</description><pubDate>Fri, 26 Jun 2026 20:35:04 +0000</pubDate></item></channel>
 </rss>
