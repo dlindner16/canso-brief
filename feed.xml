@@ -31,8 +31,7 @@
       <ns0:duration>12:58</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep02-2026-06-26</guid>
     </item>
-  </channel>
-</rss>    <item>
+    <item>
       <title>Ep03: The Application Machine — Navigating the Seven-Review Gauntlet</title>
       <description>A deep dive into the simultaneous coordination of Canada's regulatory reviews—from payload security to site safety—and how financial responsibility backstops the future of Canadian space launch.</description>
       <link>https://dlindner16.github.io/canso-brief/</link>
@@ -41,3 +40,5 @@
       <ns0:duration>25:00</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep03-2026-07-01</guid>
     </item>
+  </channel>
+</rss>    
