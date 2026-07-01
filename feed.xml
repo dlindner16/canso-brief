@@ -5,6 +5,7 @@
     <description>The podcast for the MLS 2028 mission. (Contact: dlindner16@hotmail.com)</description>
     <link>https://dlindner16.github.io/canso-brief/</link>
     <language>en-US</language>
+    <itunes:explicit>no</itunes:explicit>
     <ns0:author>Derek Lindner</ns0:author>
     <ns0:owner>
       <ns0:name>Derek Lindner</ns0:name>
