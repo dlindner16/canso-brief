@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Canso Brief</title>
     <description>The podcast for the MLS 2028 mission. (Contact: dlindner16@hotmail.com)</description>
     <link>https://dlindner16.github.io/canso-brief/</link>
     <language>en-US</language>
+    <itunes:explicit>no</itunes:explicit>
     <ns0:author>Derek Lindner</ns0:author>
     <ns0:owner>
       <ns0:name>Derek Lindner</ns0:name>
@@ -32,12 +33,12 @@
       <guid isPermaLink="false">canso-brief-ep02-2026-06-26</guid>
     </item>
 <item>
-      <title>Ep03: The Application Machine — Navigating the Seven-Review Gauntlet</title>
+      <title>Episode 03: The Application Machine — Inside the Six-Review Web</title>
       <description>A deep dive into the simultaneous coordination of Canada's regulatory reviews—from payload security to site safety—and how financial responsibility backstops the future of Canadian space launch.</description>
       <link>https://dlindner16.github.io/canso-brief/</link>
       <pubDate>Tue, 01 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-07-01-ep03-the-application-machine.mp3" length="5192877" type="audio/mpeg" />
-      <ns0:duration>25:00</ns0:duration>
+      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-07-01-ep03-the-application-machine.mp3" length="25303293" type="audio/mpeg" />
+      <ns0:duration>26:21</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep03-2026-07-01</guid>
     </item>
   </channel>
