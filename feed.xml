@@ -41,5 +41,14 @@
       <ns0:duration>26:21</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep03-2026-07-01</guid>
     </item>
+    <item>
+      <title>Episode 04: The Minister's Two Questions</title>
+      <description>The Financial Responsibility Review and the Policy Review — the two places a Transport Canada decision comes down to a Minister's judgment call, not an engineering checklist. Examined through the newly signed Isar Aerospace-Maritime Launch Services facilities agreement at Spaceport Nova Scotia.</description>
+      <link>https://dlindner16.github.io/canso-brief/</link>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-07-14-ep04-the-ministers-two-questions.mp3" length="23133248" type="audio/mpeg" />
+      <ns0:duration>24:06</ns0:duration>
+      <guid isPermaLink="false">canso-brief-ep04-2026-07-14</guid>
+    </item>
   </channel>
 </rss>
