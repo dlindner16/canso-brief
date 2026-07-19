@@ -50,5 +50,14 @@
       <ns0:duration>23:23</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep04-2026-07-14</guid>
     </item>
+    <item>
+      <title>Episode 05: The Fence and the Cage</title>
+      <description>The Security Review and the Technology Security Review — one protects the launch site, the other protects treaty-controlled technology, and conflating them costs you credibility. Examined through the Canada-United States Technology Safeguards Agreement and the open questions around Isar Aerospace's Spectrum vehicle at Spaceport Nova Scotia.</description>
+      <link>https://dlindner16.github.io/canso-brief/</link>
+      <pubDate>Sat, 18 Jul 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-07-18-ep05-the-fence-and-the-cage.mp3" length="20420275" type="audio/mpeg" />
+      <ns0:duration>21:16</ns0:duration>
+      <guid isPermaLink="false">canso-brief-ep05-2026-07-18</guid>
+    </item>
   </channel>
 </rss>
