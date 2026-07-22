@@ -59,5 +59,14 @@
       <ns0:duration>21:16</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep05-2026-07-18</guid>
     </item>
+    <item>
+      <title>Episode 06: Why Canso — The Geometry of Orbit</title>
+      <description>No equations, one globe: why inclination and launch latitude lock a satellite's reach at liftoff, why sun-synchronous orbits need a specific launch time, and why Canso is one of the only places in eastern North America where that geometry points at open ocean instead of populated land.</description>
+      <link>https://dlindner16.github.io/canso-brief/</link>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-07-21-ep06-why-canso.mp3" length="21134568" type="audio/mpeg" />
+      <ns0:duration>22:01</ns0:duration>
+      <guid isPermaLink="false">canso-brief-ep06-2026-07-21</guid>
+    </item>
   </channel>
 </rss>
