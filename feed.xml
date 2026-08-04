@@ -68,5 +68,14 @@
       <ns0:duration>22:01</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep06-2026-07-21</guid>
     </item>
+    <item>
+      <title>Episode 07: The Customs Desk for Orbit</title>
+      <description>Payload Review and Determination, Section 3.4 — the review that examines the actual cargo, and the two carve-outs (spectrum to Innovation, Science and Economic Development Canada; imaging to Global Affairs Canada) that define what it refuses to inspect. Why a transport regulator asks about satellite encryption, and what happens when you don't know your manifest yet.</description>
+      <link>https://dlindner16.github.io/canso-brief/</link>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-07-31-ep07-payload-review.mp3" length="22200364" type="audio/mpeg" />
+      <ns0:duration>23:07</ns0:duration>
+      <guid isPermaLink="false">canso-brief-ep07-2026-07-31</guid>
+    </item>
   </channel>
 </rss>
