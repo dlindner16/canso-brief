@@ -77,5 +77,14 @@
       <ns0:duration>23:07</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep07-2026-07-31</guid>
     </item>
+    <item>
+      <title>Episode 08: The Thin Door</title>
+      <description>Safety Review, Part 1 of 7: why "a rocket is an aircraft" is the single sentence the entire regulatory regime hangs from, the five risk regimes and their measured quantities, and the surprising legal definitions of "public" and "casualty" that everything else is denominated in. Also: closing the deployed-payload ledger item carried over from Episode 07.</description>
+      <link>https://dlindner16.github.io/canso-brief/</link>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-08-27-ep08-the-thin-door.mp3" length="32740040" type="audio/mpeg" />
+      <ns0:duration>34:06</ns0:duration>
+      <guid isPermaLink="false">canso-brief-ep08-2026-08-27</guid>
+    </item>
   </channel>
 </rss>
