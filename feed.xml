@@ -86,5 +86,14 @@
       <ns0:duration>34:06</ns0:duration>
       <guid isPermaLink="false">canso-brief-ep08-2026-08-27</guid>
     </item>
+    <item>
+      <title>Episode 09: The Ground Floor</title>
+      <description>Safety Review, Part 2 of 7: the system safety program's two mandatory seats (mission director and safety official) and the guaranteed line between them, ground safety's itemized risk regime versus the sky's integrated one, and the nine-limb definition of "mishap" that ties it all together. Framed through a fisherman whose late boat scrubbed a Spectrum countdown at Andoya.</description>
+      <link>https://dlindner16.github.io/canso-brief/</link>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://dlindner16.github.io/canso-brief/audio/2026-09-30-ep09-the-ground-floor.mp3" length="36968115" type="audio/mpeg" />
+      <ns0:duration>38:30</ns0:duration>
+      <guid isPermaLink="false">canso-brief-ep09-2026-09-30</guid>
+    </item>
   </channel>
 </rss>
